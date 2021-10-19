@@ -1,0 +1,36 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: black;
+  color: white;
+  align-items: center;
+  text-align: center;
+}
+img{
+  display: inline-block;
+  padding: 10px;
+}
+h1{
+font-size: 50px;
+font-weight: normal;
+}
+h2{
+font-size: 42px;
+font-weight: 300;
+}
+aside p{
+  font-size: 16px;
+  color: aquamarine;
+  text-decoration: underline;
+}
+article p{
+  font-size: 21px;
+  color: gray;
+}
+footer p{
+  font-size: 21px;
+  color: gray;
+  float: right;
+  padding: 10px;
+}
